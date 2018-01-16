@@ -1,0 +1,12 @@
+button {
+  background: palevioletred;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  font-family: Courier New, Courier, monospace;
+  font-weight: 700;
+  height: 40px;
+  letter-spacing: 0.07em;
+  padding: 5px 20px;
+  text-transform: uppercase;
+}
